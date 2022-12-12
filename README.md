@@ -6,6 +6,9 @@ Minimal **Django** project with `Docker` support - actively supported by [AppSee
 
 - ✅ `Up-to-date Dependencies`
 - ✅ Theme: [Django Admin Star](https://github.com/app-generator/django-admin-star)
+- ✅ UI Kit: [Star Admin BS5](https://www.bootstrapdash.com/product/star-admin-free?ref=23) by `BootstrapDash`
+
+**Star Admin** is a free admin dashboard template built with **[Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/)**. We took the original `Star Admin` and gave it a design overhaul along with newly written code to create our best template yet. This is a modern-looking dashboard with a clean and elegant design. 
 
 <br />
 
