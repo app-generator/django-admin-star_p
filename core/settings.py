@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'admin_argon.apps.AdminArgonConfig',
+    'admin_star.apps.AdminStarConfig',
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
